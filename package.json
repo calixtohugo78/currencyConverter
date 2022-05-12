@@ -1,0 +1,19 @@
+{
+  "name": "currencyconverter",
+  "version": "1.0.0",
+  "description": "\"# currencyConverter\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calixtohugo78/currencyConverter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calixtohugo78/currencyConverter/issues"
+  },
+  "homepage": "https://github.com/calixtohugo78/currencyConverter#readme"
+}
