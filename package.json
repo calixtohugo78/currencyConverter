@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/calixtohugo78/currencyConverter/issues"
   },
-  "homepage": "https://github.com/calixtohugo78/currencyConverter#readme"
+  "homepage": "https://github.com/calixtohugo78/currencyConverter#readme",
+  "dependencies": {
+    "puppeteer": "^14.0.0"
+  }
 }
